@@ -1,12 +1,12 @@
 REST APIs for a Simple Banking Application using SpringBoot, Spring Data JPA(Hibernate) and MySQL Database.
-Spring-3.4.0
-Java-17
+Spring-3.4.0 ,
+Java-17 ,
 apache-maven-3.9.8-bin
 
 #Functionalities:-
-Creating a Bank Account
-Fetching Account Details
-Making a deposit/Withdrawl
+Creating a Bank Account,
+Fetching Account Details,
+Making a deposit/Withdrawl,
 Removing the Bank Account
 
 #Endpoints:-
